@@ -24,7 +24,7 @@ body {
   
   #survey-form {
     background-color: rgba(27, 27, 50, 0.8);
-    width: 80%
+    width: 80%;
     margin: 0 auto;
     border-radius: 10px;
     max-width: 800px;
@@ -35,19 +35,19 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-item: center;
+    align-items: center;
     margin: 0 auto 1.25rem auto;
     padding: 0.25rem;
   }
   
-  label {
+  label{
     margin-bottom: 10px;
     width: 90%;
     font-size: 18px;
     padding-top: 8px;
   }
   
-  input, select, {
+  input, select {
     width: 90%;
     height: 40px;
     border-radius: 5px;
